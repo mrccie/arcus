@@ -11,7 +11,7 @@ Version: 0.1
 
 ---
 
-![Project Arcus Logo](assets/project_arcus_web.png)
+![Project Arcus Logo](assets/logo_color_png.png)
 
 **Project Arcus: Geometry drawn from presence and perception.**
 
